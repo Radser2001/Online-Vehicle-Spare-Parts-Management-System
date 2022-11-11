@@ -89,7 +89,7 @@
 <details>
 <summary>Add Items</summary>
 <br>
-<img src="Screenshots\addItems.png.png">
+<img src="Screenshots\addItems.png">
 </details>
 
 <details>
