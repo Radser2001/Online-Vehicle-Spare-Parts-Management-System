@@ -4,7 +4,6 @@
 
 #### Tech Stack Used: JSP-Servlet/MySQL/TailwindCSS/HTML
 
-<br>
 
 ### My responsibilities during this project
 
