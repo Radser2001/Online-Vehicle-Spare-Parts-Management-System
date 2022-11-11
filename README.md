@@ -89,7 +89,7 @@
 <details>
 <summary>Add Items</summary>
 <br>
-<img src="Screenshots\postAd.png">
+<img src="Screenshots\addItems.png.png">
 </details>
 
 <details>
