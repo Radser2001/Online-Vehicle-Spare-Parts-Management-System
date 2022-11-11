@@ -75,6 +75,12 @@
 </details>
 
 <details>
+<summary>Seller Dashboard after Company Registration</summary>
+<br>
+<img src="Screenshots\afterCompanyRegistration.png">
+</details>
+
+<details>
 <summary>Company Update Details</summary>
 <br>
 <img src="Screenshots\updateCompany.png">
