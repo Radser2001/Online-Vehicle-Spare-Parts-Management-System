@@ -7,29 +7,31 @@
 
 ### My responsibilities during this project
 
-<ul>
-    <li>Seller Register</li>
-    <li>Seller Login</li>
-    <li>Seller Dashboard</li>
-    <ul>
-        <li>Seller View Details</li>
-        <li>Update Seller</li>
-        <li>Delete Seller</li>
-    </ul>
-     <ul>
+<ol>
+    <li>Seller</li>
+    <ol>
+        <li>Seller Register</li>
+        <li>Seller Login</li>
+        <li>Seller Dashboard</li>
+        <li>Seller Update</li>
+        <li>Seller Delete Account</li>
+    </ol>
+    <li>Company</li>
+     <ol>
         <li>Register Company </li>
         <li>View Company</li>
         <li>Update Company</li>
         <li>Delete Company</li>
-    </ul>
+    </ol>
     <li>Items</li>
-    <ul>
+    <ol>
         <li>Post Items</li>
         <li>View Items</li>
         <li>Update Items</li>
         <li>Delete Items</li>
-    </ul>
-</ul>
+    </ol>
+    <li>Contact Us (static)</li>
+</ol>
 
 
 <br>
